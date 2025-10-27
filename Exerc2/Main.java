@@ -17,7 +17,7 @@ public class Main {
         } else if (imc >= 18.6 && imc <= 24.9) {
             System.out.println("Peso ideal");
         } else if (imc >= 25 && imc <= 29.9) {
-            System.out.println("Levemente acimda do peso");
+            System.out.println("Levemente acima do peso");
         } else if (imc >= 30 && imc <= 34.9) {
             System.out.println("Obesidade Grau I");
         } else if (imc >= 35 && imc <= 39.9) {
